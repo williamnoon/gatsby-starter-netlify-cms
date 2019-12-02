@@ -63,7 +63,7 @@ main:
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/carrtologo.png
+    image: /img/chemex.jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
